@@ -7,8 +7,6 @@ Stable tag: 1.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Just another contact form plugin. Simple but flexible.
-
 == Description ==
 
 The Table of Contents AMP plugin generates a table of contents for posts and pages based on the subheadings in the post content. It works on AMP (Accelerated Mobile Pages) as well. The plugin allows WordPress administrators and developers to easily create a table of contents for their content by adding anchors to the headings and generating a list of links to those anchors.
